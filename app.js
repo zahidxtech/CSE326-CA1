@@ -1,7 +1,7 @@
 /* ScoutLine – Sports Talent Scouting Platform (HTML + CSS + JS, localStorage only) */
 'use strict';
 
-/* ---------- constants ---------- */
+/* ---------- constantsnh ---------- */
 const POSITIONS = {
   Football: ['Goalkeeper', 'Defender', 'Midfielder', 'Forward'],
   Cricket: ['Batter', 'Bowler', 'All-rounder', 'Wicketkeeper'],
